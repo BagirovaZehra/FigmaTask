@@ -19,7 +19,7 @@
    gap: 200px;
 }
 .about-article{
-    width: 650px;
+    width: 600px;
 }
 .about-article p{
     font-size: 24px;
@@ -71,7 +71,7 @@
         margin-top: 50px;
     }
     .body{
-        gap: 100px;
+        gap: 60px;
     }
     
      .items{
@@ -176,7 +176,7 @@
         margin: 0 auto;
     }
     .about-article{
-        width:742px;
+        width:542px;
     }
    .body{
     flex-direction: column;
